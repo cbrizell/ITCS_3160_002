@@ -25,7 +25,7 @@ a fully implemented working model.
     Goal: User is able to order and recieve food correctly and in an acceptable timeframe, restaurant is able to recieve and process the proper order and driver is able to pickup and deliver food correctly.
   
   Business Rules:
-    To be determined
+    Created and Finalized
   
   EERD:
     Created and Finalized
