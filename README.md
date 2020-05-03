@@ -28,7 +28,7 @@ a fully implemented working model.
     To be determined
   
   EERD:
-    To be determined
+    Created and Finalized
   
   MySQL Queries (three):
     To be determined
