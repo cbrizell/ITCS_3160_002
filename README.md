@@ -31,9 +31,9 @@ a fully implemented working model.
     Created and Finalized
   
   MySQL Queries (three):
-    To be determined
+    Created and Finalized
  
-  Trigger:
+  Trigger (Optional):
     To be determined
   
   Stored Procedure:
@@ -43,4 +43,4 @@ a fully implemented working model.
     To be determined
   
   MySQL dump:
-    To be determined
+    Created and Finalized
